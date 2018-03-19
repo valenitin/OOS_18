@@ -36,6 +36,9 @@ header h1 {
     padding-right: 15px;
     padding-left: 15px;
 }
+.media {
+    min-height: 188px;
+}
 .media-body, .media-left, .media-right {
     display: table-cell;
     vertical-align: top;
